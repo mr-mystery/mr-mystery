@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!-- ![](GodCat.gif) -->
+<!-- ![](img/GodCat.gif) -->
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="img/contributions.svg"></a>
 
 <p align="center"> 
   Visitor count
